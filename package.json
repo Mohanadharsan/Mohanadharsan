@@ -1,0 +1,15 @@
+{
+  "name": "realtime-token",
+  "version": "1.0.0",
+  "description": "Real-time ERC-20 Token Simulation",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
